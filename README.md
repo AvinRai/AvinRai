@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AvinRai
-- 👀 I’m interested in business and STEM
-- 🌱 I’m currently taking an APCS course in high school
+- 👀 I’m looking to work as a software engineer
+- 🌱 I’m currently a 2nd year student at De Anza College studying computer science
 - 📫 How to reach me: avinrai7@gmail.com
 
 <!---
