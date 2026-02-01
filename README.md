@@ -4,4 +4,4 @@ I'm a computer science undergraduate at San Jose State University with additiona
 
 Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=java,react,node,ts,js,html,css,docker,k8s)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,js,react,nodejs,sql,postgres,docker,k8s)](https://skillicons.dev)
