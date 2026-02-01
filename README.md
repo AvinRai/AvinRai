@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @AvinRai
-- 🌱 I’m currently a 3rd year computer science student at San Jose State University
-- 📫 How to reach me: avinrai7@gmail.com
+### Hi, I'm Avin 👋
+
+I'm a computer science undergraduate at San Jose State University with additional interests in economics, systems, and policy. I love building personal projects and working on products that scale. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/avin-rai/)!
+
+Technologies:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
