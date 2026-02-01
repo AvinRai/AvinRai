@@ -1,7 +1,11 @@
-### Hi, I'm Avin 👋
+# Hi, I'm Avin 👋
 
-I'm a computer science undergraduate at San Jose State University with additional interests in economics, systems, and policy. I love building personal projects and working on products that scale. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/avin-rai/)!
+I'm a computer science undergraduate at San Jose State University with additional interests in economics, systems, and policy. I love building personal projects and working on products that scale. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/avin-rai/) or [Email](mailto:avinrai7@gmail.com)!
 
-# Technologies:
+## 🌟 Experience
+SWE Intern @ Atlassian           | May 2025 - August 2025<br/>
+SQA Intern @ Library of Congress | March 2025 - May 2025<br/>
+
+## 🛠️ Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=java,ts,js,python,react,nodejs,supabase,postgres,docker,k8s)](https://skillicons.dev)
