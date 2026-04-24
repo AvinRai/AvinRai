@@ -8,4 +8,4 @@ SQA Intern @ Library of Congress<br/>
 
 ## 🛠️ Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=java,ts,js,python,react,nodejs,supabase,postgres,docker,k8s)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,js,python,react,nextjs,nodejs,spring,fastapi,supabase,postgres,mysql,docker,k8s,aws)](https://skillicons.dev)
